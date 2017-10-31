@@ -1,4 +1,4 @@
-package chihane.utils;
+package mlxy.utils;
 
 public class Str {
     public static boolean isEmpty(String s) {

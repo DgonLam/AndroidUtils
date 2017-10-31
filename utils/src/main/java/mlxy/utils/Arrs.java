@@ -1,4 +1,4 @@
-package chihane.utils;
+package mlxy.utils;
 
 public class Arrs {
     public static boolean isEmpty(Object[] array) {

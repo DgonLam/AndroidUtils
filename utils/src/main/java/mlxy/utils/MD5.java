@@ -1,4 +1,4 @@
-package chihane.utils;
+package mlxy.utils;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

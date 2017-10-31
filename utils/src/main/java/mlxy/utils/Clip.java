@@ -1,4 +1,4 @@
-package chihane.utils;
+package mlxy.utils;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;
